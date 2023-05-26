@@ -6,6 +6,11 @@
 - 📫 How to reach me : Linkedin - https://www.linkedin.com/in/usama-bagwan/
                         email - usamaas100@gmail.com
 
+<br>
+<br>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amratansh12&label=Profile%20views&color=0e75b6&style=flat" alt="amratansh12" /> </p>
 <!---
 iusamahub/iusamahub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
